@@ -16,20 +16,20 @@
 	"FACEBOOK_BANNER":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
 	"FACEBOOK_BANNERCPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
 
-	"GOOGLE_INTERSTITIAL":"ca-ap-pub-2317148488775528/6842712850",
+	"GOOGLE_INTERSTITIAL":"ca-app-pub-2317148488775528/6842712850",
 	
-	"GOOGLE_NATIVE":"ca-ap-pub-2317148488775528/3147010422",
-	"GOOGLE_NATIVE1":"ca-ap-pub-2317148488775528/3147010422",
+	"GOOGLE_NATIVE":"ca-app-pub-2317148488775528/3147010422",
+	"GOOGLE_NATIVE1":"ca-app-pub-2317148488775528/3147010422",
 	
-	"GOOGLE_NATIVEBANNER":"ca-ap-pub-2317148488775528/3691410688",
-	"GOOGLE_NATIVEBANNER1":"ca-ap-pub-2317148488775528/3691410688",
+	"GOOGLE_NATIVEBANNER":"ca-app-pub-2317148488775528/3691410688",
+	"GOOGLE_NATIVEBANNER1":"ca-app-pub-2317148488775528/3691410688",
 	
-	"GOOGLE_BANNER":"ca-ap-pub-2317148488775528/9420134101",
+	"GOOGLE_BANNER":"ca-app-pub-2317148488775528/9420134101",
 	
-	"GOOGLE_INTERSTITIALCPM":"ca-ap-pub-2317148488775528/6842712850",
-	"GOOGLE_NATIVECPM":"ca-ap-pub-2317148488775528/3147010422",
-	"GOOGLE_BANNERCPM":"ca-ap-pub-2317148488775528/9420134101",
-	"GOOGLE_NATIVEBANNERCPM":"ca-ap-pub-2317148488775528/3691410688",
+	"GOOGLE_INTERSTITIALCPM":"ca-app-pub-2317148488775528/6842712850",
+	"GOOGLE_NATIVECPM":"ca-app-pub-2317148488775528/3147010422",
+	"GOOGLE_BANNERCPM":"ca-app-pub-2317148488775528/9420134101",
+	"GOOGLE_NATIVEBANNERCPM":"ca-app-pub-2317148488775528/3691410688",
 	
 
 
@@ -42,10 +42,10 @@
 	"INTER_INTERVAL":1,
 
 "BVISIBLE":"false",
-"MORETIPSLINK":"https://play.google.com/store/apps",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.adopop.petsmeme",
 
 
-    "NATIVESWITCHBANNER":"false",
+    "NATIVESWITCHBANNER":"true",
     "RUN":"true",
     
     "MAINADS":"true",
@@ -134,6 +134,36 @@
 
 	
 	"moreappsgrid":[
+					{
+						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
+						"name":"BIG WORMS",
+						"type":"install"
+					},
+	    {
+						"picture":"https://play-lh.googleusercontent.com/CWWm-anUihdoYUHz5zYG4T-tRKolxMzsAsSVdlluVb6NXw9H1o2Z8M3kC9002Dcaah8=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.dopsme.petko",
+						"name":"ADOPTE ME",
+						"type":"install"
+					},
+		{
+						"picture":"https://play-lh.googleusercontent.com/S8rXnelaBwubnX6Nt9jd83Jyyp7spt1Vxn2_zzmv8qObL5nNlXnMEuLWH4Iasrf4A3mv=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.puppyrace.riding",
+						"name":"Paw Racing Patrol",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/-eH1N8CtwAS6ZfVuknvHXqQcVPfDO6xMttMPSPUTxjLWRHIqd42mViuhht7ibkdTW8s=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.blazers.ladys",
+						"name":"Lady Bug Run",
+						"type":"install"
+					},
+					{
+						"picture":"https://play-lh.googleusercontent.com/eSAJ56MCGf3-5-8ZUPtqjuZl9S4mPKdQWXfSJr90UBiv0yyRzC1gBDUeNlgvbf5b_lM=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.pupps.adventure.patro",
+						"name":"Paw Patrol Dash",
+						"type":"install"
+					}
 					
 			
 					
