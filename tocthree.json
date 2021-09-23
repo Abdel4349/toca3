@@ -1,152 +1,76 @@
 {
-    "FACEBOOK_INTERSTITIAL":"IMG_16_9_APP_INSTALL#184669246650973_201027278348503p",
-    "FACEBOOK_INTERSTITIALCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343981971313p",
+    "FACEBOOK_INTERSTITIAL":"IMG_16_9_APP_INSTALL#184669246650973_201027278348503j",
+    "FACEBOOK_INTERSTITIALCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343981971313k",
     
-	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635p",
-	"FACEBOOK_NATIVEBANNERCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647p",
-	"FACEBOOK_NATIVEBANNER1":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635p",
-	"FACEBOOK_NATIVEBANNERCPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647p",
+	"FACEBOOK_NATIVEBANNER":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
+	"FACEBOOK_NATIVEBANNER1":"IMG_16_9_APP_INSTALL#184669246650973_184669293317635j",
+	"FACEBOOK_NATIVEBANNERCPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343975304647k",
 	
-	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_NATIVECPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_NATIVE1":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_NATIVECPM1":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
+	"FACEBOOK_NATIVE":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_NATIVECPM":"IMG_16_9_APP_INSTALL#1450343931971318_1450343978637980h",
+	"FACEBOOK_NATIVE1":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025j",
+	"FACEBOOK_NATIVECPM1":"IMG_16_9_APP_INSTALL#1450343931971318_1450343978637980h",
 
 	
-	"FACEBOOK_BANNER":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
-	"FACEBOOK_BANNERCPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025p",
+	"FACEBOOK_BANNER":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025k",
+	"FACEBOOK_BANNERCPM":"IMG_16_9_APP_INSTALL#184669246650973_201165391668025k",
 
-	"GOOGLE_INTERSTITIAL":"ca-app-pub-7179472719496636/8584141105",
+	"GOOGLE_INTERSTITIAL":"ca-ap-pub-7179472719496636/8584141105",
 	
-	"GOOGLE_NATIVE":"ca-ap-pub-2317148488775528/7003795694",
-	"GOOGLE_NATIVE1":"ca-ap-pub-2317148488775528/7003795694",
+	"GOOGLE_NATIVE":"ca-ap-pub-4451197658776780/1874124456",
+	"GOOGLE_NATIVE1":"ca-ap-pub-4451197658776780/1874124456",
 	
-	"GOOGLE_NATIVEBANNER":"ca-ap-pub-2317148488775528/3691410688",
-	"GOOGLE_NATIVEBANNER1":"ca-ap-pub-2317148488775528/3691410688",
+	"GOOGLE_NATIVEBANNER":"ca-ap-pub-2317148488775528/8628591334",
+	"GOOGLE_NATIVEBANNER1":"ca-ap-pub-2317148488775528/8628591334",
 	
-	"GOOGLE_BANNER":"ca-ap-pub-4451197658776780/2968776366",
+	"GOOGLE_BANNER":"ca-ap-pub-4451197658776780/6417317773",
 	
-	"GOOGLE_INTERSTITIALCPM":"ca-app-pub-7179472719496636/8584141105",
-	"GOOGLE_NATIVECPM":"ca-ap-pub-2317148488775528/7003795694",
-	"GOOGLE_BANNERCPM":"ca-ap-pub-4451197658776780/2968776366",
-	"GOOGLE_NATIVEBANNERCPM":"ca-ap-pub-2317148488775528/3691410688",
+	"GOOGLE_INTERSTITIALCPM":"ca-ap-pub-7179472719496636/8584141105",
+	"GOOGLE_NATIVECPM":"ca-ap-pub-4451197658776780/1874124456",
+	"GOOGLE_BANNERCPM":"ca-ap-pub-4451197658776780/6417317773",
+	"GOOGLE_NATIVEBANNERCPM":"ca-ap-pub-2317148488775528/8628591334",
 	
-
-
-	
-	
-	
-	"BG_IMG":"https://i.pinimg.com/originals/c9/2e/2e/c92e2ed14a7db606f2e50cee907ece5a.jpg",
 
 
-	"INTER_INTERVAL":1,
+	"INTER_INTERVAL":4,
 
-"BVISIBLE":"true",
-"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.blazers.ladys",
+   
+
+
+    
+	"BVISIBLE":"true",
+"MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
 
 
     "NATIVESWITCHBANNER":"true",
-    "RUN":"true",
-    
-    "MAINADS":"true",
+ 
 
     "FACEBOOKADSFIRST":"false",
   
 
-	
-
-	"IMAGEMAIN":"https://play-lh.googleusercontent.com/Hb3yKJS1qWBwbEO9mdMan8oLf4LaEe-3AU1zLZWE0CyDDLEWUsrDzM4w6qkpL_nJd9If=w1440-h767-rw",
-	"MAINLINK":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5303702/",
-	
-    
-    
-    
-    
-    "MAINHEIGHT":500,
-	"MAINWIDTH":0,
-	
-	"GRIDHEIGHT":500,
-	"GRIDWIDTH":0,
-
-    "Main":[
-					
-					{
-						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
-						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
-						"name":"BIG WORMS",
-						"type":"install"
-					},
-	    {
-						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
-						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
-						"name":"BIG WORMS",
-						"type":"install"
-					}
-	],
-
-	
-
-
-	
-
-	
-
-	
-	"VIDEOHEIGHT":500,
-	"VIDEOWIDTH":0,
-	"videos":[
-					
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					},
-					{
-						"picture":"https://image.winudf.com/v2/image1/Y29tLmZyZWVmaXJlLmRpYW1vbmRzLmd1aWRlLnRyaWNrc19zY3JlZW5fMV8xNTc0MTcyMDU1XzAwMA/screen-1.jpg?fakeurl=1&type=.jpg",
-						"link":"afVnQoR4XsE",
-						"name":"Latest One Tap Auto Headshot Trick"
-					}
-					
-					
-	],
-	
-
 
 	
 	"moreappsgrid":[
-					{
+		{
 						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
 						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
 						"name":"BIG WORMS",
 						"type":"install"
 					},
-	    {
-						"picture":"https://play-lh.googleusercontent.com/CWWm-anUihdoYUHz5zYG4T-tRKolxMzsAsSVdlluVb6NXw9H1o2Z8M3kC9002Dcaah8=s360-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.dopsme.petko",
-						"name":"ADOPTE ME",
+		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
+						"name":"64 GAMES in 1 App",
 						"type":"install"
 					},
 		{
+						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
+						"link":"https://play.google.com/store/apps/details?id=com.clasgame.arcagam",
+						"name":"64 GAMES in 1 App",
+						"type":"install"
+					},
+					{
 						"picture":"https://play-lh.googleusercontent.com/S8rXnelaBwubnX6Nt9jd83Jyyp7spt1Vxn2_zzmv8qObL5nNlXnMEuLWH4Iasrf4A3mv=s360-rw",
 						"link":"https://play.google.com/store/apps/details?id=com.puppyrace.riding",
 						"name":"Paw Racing Patrol",
@@ -165,7 +89,6 @@
 						"type":"install"
 					}
 					
-			
 					
 					
 				
